@@ -1,0 +1,10 @@
+"use strict";
+let friend = ["Asma", "Nighat", "Shadma", "Kishwar"];
+let message1 = "would you like to join me for the classes of typescript?";
+let message2 = "why were you absent today class of typescript";
+let message3 = "Friday class was so,amazing";
+let message4 = "you must attent the class,its so knowledgable ";
+console.log(friend[0], message1);
+console.log(friend[1] + " " + message2);
+console.log(friend[2] + " " + message3);
+console.log(friend[3] + " " + message4);
